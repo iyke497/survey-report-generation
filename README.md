@@ -8,6 +8,7 @@ Fetching the application:
 $ git clone git@github.com:zstechnology/eyemark_backend.git
 ```
 To run the project locally, you have to have docker and docker compose installed.
+
 At the root of the directory run the following commands respectively to build and run the project:
 ```bash
 $ docker-compose -f local.yml build
