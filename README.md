@@ -65,6 +65,13 @@ To run the project you will need to add the following environment variables to y
 `AWS_BUCKET_NAME`
 `AWS_REGION`
 
+Add the following environment variables to your postgres env file in the .envs folder
+`POSTGRES_HOST`
+`POSTGRES_PORT`
+`POSTGRES_DB`
+`POSTGRES_USER`
+`POSTGRES_PASSWORD`
+
 To run the project locally, you have to have docker and docker compose installed.
 
 At the root of the directory run the following commands respectively to build and run the project:
