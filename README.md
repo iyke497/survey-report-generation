@@ -96,6 +96,7 @@ To run the project you will need to add the following environment variables to y
 `AWS_REGION`
 
 Add the following environment variables to your postgres env file in the .envs folder
+
 `POSTGRES_HOST`
 
 `POSTGRES_PORT`
