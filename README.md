@@ -18,12 +18,13 @@ The .envs folder should contain the necessary environment variables for building
 
 Once you have populated the neccesary environment variables, the directory structure for the .env folder should follow as below
 
-|-- .envs/
+`
+|-- .envs
     |-- .local
       |-- .django
       |-- .postgres
 
-
+`
 
 # Building and running the project
 
