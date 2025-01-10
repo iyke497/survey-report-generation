@@ -14,7 +14,17 @@ $ cd eyemark_backend
 ```
 
 # Environment Variables
+The .envs folder should contain the necessary environment variables for building and running the application, take a sample from .env.example and populate them.
 
+Once you have populated the neccesary environment variables, the directory structure for the .env folder should follow as below
+|-- .envs/
+    |-- .local
+      |-- .django
+      |-- .postgres
+
+
+
+# Building and running the project
 
 To run the project locally, you have to have docker and docker compose installed.
 
